@@ -1,3 +1,3 @@
 # stack_cloud_functions
 
-Curso Domindo Cloud Functions
+Curso Dominando Cloud Functions
